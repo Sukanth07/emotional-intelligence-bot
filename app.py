@@ -23,7 +23,7 @@ except Exception as e:
 
 st.markdown(utils.styles(), unsafe_allow_html=True)
 
-st.title("🤗 :rainbow[Lumina] - :blue[Your Emotional Intelligence Chatbot] 🤗")
+st.header(":rainbow[Lumina] - :blue[EI Bot] 🤗")
 
 st.sidebar.markdown(utils.sidebar_markdown())
 
